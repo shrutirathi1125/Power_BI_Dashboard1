@@ -17,5 +17,5 @@ Power BI – Data visualization and dashboard development
 ![image](https://github.com/user-attachments/assets/073eb60b-eff0-49b3-ae84-2fee993c83ad)
 
 📂 How to Use
-1. Open the Power BI file (.pbix).
+1. Open the Power BI file (dashboard1.pbix).
 2. Use slicers and filters to explore different sales dimensions state wise and quarter wise. 
